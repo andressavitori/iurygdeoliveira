@@ -17,7 +17,3 @@ Me chamo Andressa Vitoria, sou estudante do ensino medio integrado ao curso de T
 ## Minhas redes:
 
 
-## Visualizações
-<p>
-  <img src="https://gpvc.arturio.dev/iurygdeoliveira" alt="profile views">
-</p>
